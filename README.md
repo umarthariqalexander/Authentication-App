@@ -1,2 +1,2 @@
-# albums
-React Native App
+# Authentication app
+React Native App using firebase.
